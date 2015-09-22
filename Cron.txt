@@ -1,0 +1,1 @@
+01 01 * * * mv /log/nginx* /mnt/log-server-SBAIN-NFS && service nginx restart
